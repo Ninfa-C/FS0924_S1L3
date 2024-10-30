@@ -20,7 +20,7 @@ header img{
 .container p {
     margin:0;
 }
-header p span {
+.container p span {
     font-weight: bold;
     text-transform: uppercase;
 }
