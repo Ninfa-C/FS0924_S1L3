@@ -34,15 +34,12 @@ h1{
     margin-top: 6vh;
     text-align: center;
 }
-bmainvideo{
+.mainvideo{
     margin:0;
     text-align: center;
-}
-.mainvideo p {
     color: grey;
     font-style: normal;
-    text-align: center;
-    }
+}
 
 .video{
     width: 100%;
