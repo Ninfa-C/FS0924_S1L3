@@ -19,6 +19,7 @@ header img{
     }
 .container p {
     margin:0;
+    font-size: 0.6em;
 }
 .container p span {
     font-weight: bold;
